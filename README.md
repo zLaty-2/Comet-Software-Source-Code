@@ -1,2 +1,2 @@
-# Comet-Launcher-7-Source-Code
-Comet launcher 7 source code 
+# Comet Software Source Code 
+Official Comet Software Extracted Without Permission 
